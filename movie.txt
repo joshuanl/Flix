@@ -1,0 +1,181 @@
+BEGIN The Princess Bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+ACTOR: Inigo Montoya
+ACTOR: Robin Wright
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR: Charlie Chaplin
+END
+BEGIN The Hobbit: An Unexpected Journey
+KEYWORD: adventure
+KEYWORD: action
+KEYWORD: fantasy
+KEYWORD: LOTR
+ACTOR: Frodo
+ACTOR: Baggins
+ACTOR: Gandolf
+END
+BEGIN The Hobbit: The Desolation of Smaug
+KEYWORD: adventure
+KEYWORD: action
+KEYWORD: fantasy
+KEYWORD: LOTR
+ACTOR: Frodo
+ACTOR: Baggins
+ACTOR: Gandolf
+ACTOR: Samwise
+END
+BEGIN The Lord of the Rings: The Return of the King
+KEYWORD: adventure
+KEYWORD: action
+KEYWORD: fantasy
+KEYWORD: LOTR
+ACTOR: Frodo
+ACTOR: Baggins
+ACTOR: Gandolf
+ACTOR: Samwise
+ACTOR: Aragorn
+ACTOR: Legolas
+ACTOR: Gimley
+ACTOR: Riders of Rohan
+ACTOR: Deadguy1
+END
+BEGIN Battlefield Earth
+KEYWORD: adventure
+KEYWORD: action
+KEYWORD: fantasy
+KEYWORD: war
+ACTOR: Morgan Freeman
+ACTOR: Matt Daeman
+ACTOR: Tom Cruise
+ACTOR: Natalie Portman
+END
+BEGIN The Shawshank Redemption
+KEYWORD: adventure
+KEYWORD: horror
+KEYWORD: fantasy
+KEYWORD: drama
+ACTOR: Killer1
+ACTOR: Aragorn
+ACTOR: Neo
+ACTOR: Trinity
+ACTOR: Deadguy1
+ACTOR: Deadguy2
+END
+BEGIN Happy Feet
+KEYWORD: adventure
+KEYWORD: animation
+KEYWORD: kids
+KEYWORD: animal
+ACTOR: Penguin1
+ACTOR: Penguin2
+ACTOR: Someguy1
+ACTOR: Someguy2
+END
+BEGIN Surfs Up
+KEYWORD: sport
+KEYWORD: animation
+KEYWORD: kids
+KEYWORD: animal
+ACTOR: Penguin1
+ACTOR: Penguin2
+ACTOR: Tank Evans
+ACTOR: Cody
+ACTOR: Big Z
+END 
+BEGIN Lilo and Stitch
+KEYWORD: adventure
+KEYWORD: kids
+KEYWORD: hawaii
+KEYWORD: hula
+KEYWORD: alien
+ACTOR: Cody
+ACTOR: Stitch
+ACTOR: Lilo
+ACTOR: Someguy2
+END
+BEGIN Princess Mononoke
+KEYWORD: adventure
+KEYWORD: animation
+KEYWORD: fantasy
+KEYWORD: japanese
+ACTOR: Mononoke
+ACTOR: Kei
+ACTOR: Demon1
+ACTOR: Trinity
+ACTOR: Deadguy2
+END
+BEGIN Naruto
+KEYWORD: adventure
+KEYWORD: ninja
+KEYWORD: animation
+KEYWORD: action
+KEYWORD: japanese
+ACTOR: Kei
+ACTOR: Naruto
+ACTOR: Sasuke
+ACTOR: Sakura
+END
+BEGIN IP MAN
+KEYWORD: chinese
+KEYWORD: history
+KEYWORD: martial arts
+KEYWORD: donnie yen
+KEYWORD: fighting
+ACTOR: Donnie Yen
+ACTOR: Samwise
+ACTOR: Kei
+ACTOR: Demon1
+END
+BEGIN The Illusionist
+KEYWORD: drama
+KEYWORD: romance
+KEYWORD: fantasy
+KEYWORD: magic
+ACTOR: Natalie Portman
+ACTOR: Mononoke
+ACTOR: Legolas
+ACTOR: Demon1
+ACTOR: Deadguy1
+END
+BEGIN Ponyo
+KEYWORD: animation
+KEYWORD: adventure
+KEYWORD: fantasy
+KEYWORD: japanese
+ACTOR: Ponyo
+ACTOR: Tank Evans
+ACTOR: Penguin2
+ACTOR: Gandolf
+END
+BEGIN The Wind Rises
+KEYWORD: animation
+KEYWORD: adventure
+KEYWORD: history
+KEYWORD: japanese
+ACTOR: Kei
+ACTOR: Neo
+ACTOR: Big Z
+ACTOR: Morgan Freeman
+END
+BEGIN Spirited Away
+KEYWORD: animation
+KEYWORD: adventure
+KEYWORD: fantasy
+KEYWORD: japanese
+KEYWORD: supernatural
+ACTOR: Demon1
+ACTOR: Demon2
+ACTOR: Gandold
+ACTOR: someguy
+END
+END
+
+
+

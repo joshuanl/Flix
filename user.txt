@@ -1,0 +1,90 @@
+BEGIN aaRoncot
+NAME: AaRon Cote
+MOVIE: The Hobbit: An Unexpected Journey
+BEGIN QUEUE
+City Lights
+The Hobbit: The Desolation of Smaug
+City Lights
+END QUEUE
+BEGIN RATINGS
+5 The Lord of the Rings: The Return of the King
+5 Battlefield Earth
+1 The Shawshank Redemption
+END RATINGS
+BEGIN dkempe
+NAME: David Kempe
+MOVIE: The Lord of the Rings: The Return of the King
+BEGIN QUEUE
+The Hobbit: The Desolation of Smaug
+City Lights
+Battlefield Earth
+END QUEUE
+BEGIN RATINGS
+5 The Lord of the Rings: The Return of the King
+5 Battlefield Earth
+5 The Shawshank Redemption
+END RATINGS
+BEGIN funshine
+NAME: Joshua Lum
+MOVIE: Surfs Up
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+5 Princess Mononoke
+3 Happy Feet
+5 The Shawshank Redemption
+5 IP MAN
+5 The Illusionist
+4 Spirited Away
+5 The Wind Rises
+END RATINGS
+BEGIN impala
+NAME: Horikawa Ron
+MOVIE: The Lord of the Rings: The Return of the King
+BEGIN RATINGS
+5 Naruto
+5 Ponyo
+4 IP MAN
+5 The Hobbit: The Desolation of Smaug
+5 Spirited Away
+5 The Wind Rises
+END RATINGS
+BEGIN wabbit
+NAME: Kalei
+MOVIE: IP MAN
+BEGIN QUEUE
+The Hobbit: The Desolation of Smaug
+City Lights
+Battlefield Earth
+END QUEUE
+BEGIN RATINGS
+5 The Lord of the Rings: The Return of the King
+5 Naruto
+3 The Illusionist
+END RATINGS
+BEGIN pyro808
+NAME: Taketa G
+MOVIE: Naruto
+BEGIN QUEUE
+Happy Feet
+IP MAN
+END QUEUE
+BEGIN RATINGS
+5 The Lord of the Rings: The Return of the King
+5 Princess Mononoke
+5 The Illusionist
+END RATINGS
+BEGIN hxcgirl
+NAME: athina
+MOVIE: The Illusionist
+BEGIN QUEUE
+Princess Mononoke
+City Lights
+Battlefield Earth
+END QUEUE
+BEGIN RATINGS
+5 Lilo and Stitch
+4 Happy Feet
+5 Ponyo
+END RATINGS
+END
